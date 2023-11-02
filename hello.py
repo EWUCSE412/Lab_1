@@ -1,1 +1,1 @@
-print("Hello World!!!")
+print("wELCOME TO cse DEPARTMENT")
